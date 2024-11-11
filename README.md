@@ -1,4 +1,4 @@
-# SCT_WD_2
+
 
 Simple Stopwatch Application
 
@@ -42,4 +42,13 @@ Responsive design
 Contribution:
 
 Pull requests and suggestions are welcome!
+
+Author- Prachi Kumari prachikumari2804@gmail.com
+
+![Capture](https://github.com/user-attachments/assets/4ef858ae-30d5-424b-a0f6-42fc47a49aef)
+
+![2](https://github.com/user-attachments/assets/0f03b4c9-8d08-4100-8e6f-792d7327d56d)
+
+
+
 
